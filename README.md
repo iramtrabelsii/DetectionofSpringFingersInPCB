@@ -1,2 +1,4 @@
 # DetectionSpringFingerInPCB
 # DetectionSpringFingerInPCB
+# DetectionSpringFingerInPCB
+# DetectionofSpringFingersInPCB
