@@ -1,9 +1,9 @@
 import cv2
 import numpy as np
 
-image_path = 'c:/Users/OUSSAMA/Pictures/FF/top.jpeg'
-template_path = 'c:/Users/OUSSAMA/Pictures/FF/idd.jpeg'
-template_path1 = 'c:/Users/OUSSAMA/Pictures/FF/center.jpeg'
+image_path = 'c:/Users/Iram/Pictures/FF/top.jpeg'
+template_path = 'c:/Users/Iram/Pictures/FF/idd.jpeg'
+template_path1 = 'c:/Users/Iram/Pictures/FF/center.jpeg'
 
 # Load the main image and the template images
 image = cv2.imread(image_path)
